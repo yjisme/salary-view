@@ -1,0 +1,152 @@
+[
+  {
+    "city": "成都",
+    "posts": 2138,
+    "postsTrends": 1.05,
+    "mainSalary": [10, 20],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/chengdu-qianduan/",
+      "trends": "https://www.jobui.com/trends/chengdu-qianduan/"
+    }
+  },
+  {
+    "city": "北京",
+    "posts": 5208,
+    "postsTrends": 1.127,
+    "mainSalary": [15, 30],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/beijing-qianduan/",
+      "trends": "https://www.jobui.com/trends/beijing-qianduan/"
+    }
+  },
+  {
+    "city": "天津",
+    "posts": 209,
+    "postsTrends": 1.817,
+    "mainSalary": [8, 15],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/tianjin-qianduan/",
+      "trends": "https://www.jobui.com/trends/tianjin-qianduan/"
+    }
+  },
+  {
+    "city": "上海",
+    "posts": 2471,
+    "postsTrends": 1.43,
+    "mainSalary": [15, 30],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/shanghai-qianduan/",
+      "trends": "https://www.jobui.com/trends/shanghai-qianduan/"
+    }
+  },
+  {
+    "city": "杭州",
+    "posts": 4042,
+    "postsTrends": 1.095,
+    "mainSalary": [10, 30],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/hangzhou-qianduan/",
+      "trends": "https://www.jobui.com/trends/hangzhou-qianduan/"
+    }
+  },
+  {
+    "city": "苏州",
+    "posts": 426,
+    "postsTrends": 1.322,
+    "mainSalary": [10, 20],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/suzhou-qianduan/",
+      "trends": "https://www.jobui.com/trends/suzhou-qianduan/"
+    }
+  },
+  {
+    "city": "重庆",
+    "posts": 368,
+    "postsTrends": 1.309,
+    "mainSalary": [8, 15],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/chongqing-qianduan/",
+      "trends": "https://www.jobui.com/trends/chongqing-qianduan/"
+    }
+  },
+  {
+    "city": "西安",
+    "posts": 1458,
+    "postsTrends": 1.116,
+    "mainSalary": [10, 30],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/xian-qianduan/",
+      "trends": "https://www.jobui.com/trends/xian-qianduan/"
+    }
+  },
+  {
+    "city": "深圳",
+    "posts": 4138,
+    "postsTrends": 1.104,
+    "mainSalary": [10, 30],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/shenzhen-qianduan/",
+      "trends": "https://www.jobui.com/trends/shenzhen-qianduan/"
+    }
+  },
+  {
+    "city": "广州",
+    "posts": 1108,
+    "postsTrends": 1.206,
+    "mainSalary": [10, 20],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/guangzhou-qianduan/",
+      "trends": "https://www.jobui.com/trends/guangzhou-qianduan/"
+    }
+  },
+  {
+    "city": "南京",
+    "posts": 694,
+    "postsTrends": 1.19,
+    "mainSalary": [10, 20],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/nanjing-qianduan/",
+      "trends": "https://www.jobui.com/trends/nanjing-qianduan/"
+    }
+  },
+  {
+    "city": "武汉",
+    "posts": 1943,
+    "postsTrends": 1.079,
+    "mainSalary": [10, 20],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/wuhan-qianduan/",
+      "trends": "https://www.jobui.com/trends/wuhan-qianduan/"
+    }
+  },
+  {
+    "city": "合肥",
+    "posts": 340,
+    "postsTrends": 1.317,
+    "mainSalary": [10, 20],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/hefei-qianduan/",
+      "trends": "https://www.jobui.com/trends/hefei-qianduan/"
+    }
+  },
+  {
+    "city": "郑州",
+    "posts": 310,
+    "postsTrends": 1.371,
+    "mainSalary": [8, 15],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/zhengzhou-qianduan/",
+      "trends": "https://www.jobui.com/trends/zhengzhou-qianduan/"
+    }
+  },
+  {
+    "city": "厦门",
+    "posts": 328,
+    "postsTrends": 1.413,
+    "mainSalary": [8, 15],
+    "detail": {
+      "salary": "https://www.jobui.com/salary/xiamen-qianduan/",
+      "trends": "https://www.jobui.com/trends/xiamen-qianduan/"
+    }
+  }
+]
